@@ -1,6 +1,6 @@
 # FerryBooking
 Being one of my first relatively big projects, this software application is used for registering customers, booking ferry seats and printing reservation tickets for each seat.
-Includes both business and economy class seats. Programmed entirely in Python. 
+Includes both business and economy class seats. Programmed entirely in Python 3.7. 
 
 ## Features
 - **Purchasing Module:** Reserve or purchase seating tickets in either business class or economy class boats or ferries and then select a departure time.
