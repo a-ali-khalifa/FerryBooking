@@ -1,4 +1,4 @@
-#Credits: @AK1o9
+#Credits: @AK1o9 via GitHub.
 
 #*******************************************************************************
 #***************************** Functions ***************************************
@@ -1553,7 +1553,7 @@ def boatSelect():
 #*******************************************************************************
 #**************** Function 7 - Main Menu Dialogue ******************************
 
-print("\nProgram Name: SPEED BOAT TICKETING SYSTEM\nBy: Ahmed Mohammed Ahmed Ali (TP059731)\nIntake: APU1F2002SE")
+print("\nProgram Name: SPEED BOAT TICKETING SYSTEM\nBy: @AK1o9 (GitHub)")
 #choice1 = input("\n- Press any button to go to main menu or '0' to exit: ")
 #while(choice1!='0'):
 def mainmenu():
