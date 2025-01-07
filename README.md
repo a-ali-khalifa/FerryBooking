@@ -1,5 +1,5 @@
 # FerryBooking
-Being one of my first relatively big projects, this software application is used for registering customers, booking ferry seats and printing reservation tickets for each seat.
+Being one of my early projects, this software application is used for registering customers, booking ferry seats and printing reservation tickets for each seat.
 Includes both business and economy class seats. Programmed entirely in Python 3.7. 
 
 ## Features
